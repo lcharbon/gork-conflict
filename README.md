@@ -7,3 +7,5 @@ Install docker and docker-compose.
 In the project's repository run: `docker-compose up -d`.
 #### Node
 In the project's repository run:`npm install` and `node app.js`.
+
+In `app.js` uncomment `const grok = require('grok-js');` to reproduce the error.
