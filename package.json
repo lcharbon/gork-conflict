@@ -1,0 +1,24 @@
+{
+  "name": "gork-conflict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcharbon/gork-conflict.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcharbon/gork-conflict/issues"
+  },
+  "homepage": "https://github.com/lcharbon/gork-conflict#readme",
+  "dependencies": {
+    "grok-js": "^3.2.4",
+    "kafkajs": "^1.11.0"
+  }
+}
